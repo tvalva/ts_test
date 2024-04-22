@@ -1,0 +1,14 @@
+{
+  "name": "vs_tp_test",
+  "version": "1.0.0",
+  "description": "test for vs code and typescript/nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "none currently provided"
+  },
+  "author": "T. Valva",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
